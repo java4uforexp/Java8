@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/reflections-2.2.0.Final.jar/reflections-2.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/google-collections-1.0.jar/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/slf4j-api-1.5.6.jar/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/log4j.jar/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/nlog4j-1.2.25.jar/nlog4j-1.2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/javassist-3.8.0.GA.jar/javassist-3.8.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/google-common.jar/google-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bbadak/Downloads/guava-10.0.jar/guava-10.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
